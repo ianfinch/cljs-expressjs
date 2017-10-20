@@ -1,0 +1,18 @@
+{
+  "name": "map-server",
+  "version": "0.0.1",
+  "description": "ExpressJS / ClojureScript proof of concept",
+  "main": "app.js",
+  "directories": {
+    "doc": "doc",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ian Finch",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.1"
+  }
+}
